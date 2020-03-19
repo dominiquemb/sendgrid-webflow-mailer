@@ -4,7 +4,7 @@ You can easily download this repository and test it out yourself with the follow
 
 ```
 1. git clone https://github.com/dominiquemb/sendgrid-webflow-mailer.git
-2. cd sendgrid-mailerr
+2. cd sendgrid-webflow-mailer
 3. sudo npm install
 4. node app.js dummy youremail@youremail.com
 ```
