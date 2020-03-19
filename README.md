@@ -37,3 +37,5 @@ After you have entered your API keys, formatted your data according to the examp
 ```
 node app.js
 ```
+
+If something doesn't work, send me an email at conejoplata@gmail.com.
